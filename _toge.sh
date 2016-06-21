@@ -14,7 +14,7 @@ toge_host="https://example-togelack.herokuapp.com"
 title=""
 description=""
 
-# 1000msg/まとめ 30msg/urlなので30個くらいが限度
+# 1000msg/まとめ 30msg/urlなので33個くらいが限度
 urls=(
  "https://example.slack.com/archives/demo/p1111111111111111"
 )
