@@ -2,6 +2,10 @@
 
 [togelack](https://github.com/rutan/togelack) curl requester. ( create summary without swipe every message.)
 
+## prerequisite
+
+- [jq](https://stedolan.github.io/jq/)
+
 ## installation
 
 ```sh
