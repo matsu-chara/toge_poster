@@ -1,6 +1,6 @@
 # toge_poster
 
-[togelack](https://github.com/rutan/togelack) curl requester.
+[togelack](https://github.com/rutan/togelack) curl requester. ( create summary without swipe every message.)
 
 ## installation
 
