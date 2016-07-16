@@ -25,3 +25,7 @@ vim toge.sh
 # post
 ./toge.sh --post
 ```
+
+## hint
+
+- use [toge_collector](https://github.com/matsu-chara/toge_collector) for specify url
